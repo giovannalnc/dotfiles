@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = giovanna.lnc02@gmail.com
+	name = Giovanna Leite Nunes Coelho
